@@ -1,3 +1,4 @@
+
 """The Tuya BLE integration."""
 from __future__ import annotations
 from dataclasses import dataclass, field
@@ -191,6 +192,7 @@ mapping: dict[str, TuyaBLECategorySensorMapping] = {
                     "bnt7wajf",
                     "rvdceqjh",
                     "5xhbk964",
+                    "ltak7e1p",
                 ],  # Fingerbot
                 [
                     TuyaBLEBatteryMapping(dp_id=12),
