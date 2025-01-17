@@ -224,7 +224,7 @@ devices_database: dict[str, TuyaBLECategoryInfo] = {
                     "ndvkgsrm",
                     "yiihr7zh", 
                     "neq16kgd",
-                    "riecov42"
+                    "riecov42",
                 ],  # device product_ids
                 TuyaBLEProductInfo(
                     name="Fingerbot Plus",
@@ -249,7 +249,7 @@ devices_database: dict[str, TuyaBLECategoryInfo] = {
                     "bnt7wajf",
                     "rvdceqjh",
                     "5xhbk964",
-                    "riecov42"
+                    "riecov42",
                 ],  # device product_ids
                 TuyaBLEProductInfo(
                     name="Fingerbot",
